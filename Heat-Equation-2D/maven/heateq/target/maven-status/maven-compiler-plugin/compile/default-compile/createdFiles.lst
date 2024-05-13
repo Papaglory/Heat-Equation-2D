@@ -1,0 +1,8 @@
+com\Mesh.class
+com\NumericalSolution.class
+com\PrimaryPanel.class
+com\Polynomial.class
+com\Drawer.class
+com\MainHeat.class
+com\HeatSimulation.class
+com\Vertex.class
