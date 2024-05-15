@@ -1,6 +1,6 @@
 ## Description
 
-This program numerically solves the 2D heat equation using the finite difference method, approximating the heat distribution over a square domain with zero boundary conditions. The initial heat distribution is modeled by a polynomial spline surface constructed from user-defined input points in 3D-space.
+This program numerically solves the 2D heat equation using the finite difference method, approximating the heat distribution over a square domain with having value zero for the boundary conditions. The initial heat distribution is modeled by a polynomial spline surface constructed from user-defined input points in 3D-space.
 
 ## How to Use
 
