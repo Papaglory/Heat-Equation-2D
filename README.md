@@ -32,4 +32,4 @@ Loop through the grid and set every pixel to a grayscale color determined by the
 Uses the javax.swing package to render graphical elements and the EJML java library version 0.43 (simple matrix) for matrix calculations.
 
 ## Preview
-<img src="preview.gif" alt="Alt Text" width="330" height="400" />
+<img src="assets/preview.gif" alt="Alt Text" width="330" height="400" />
