@@ -33,3 +33,7 @@ The java code relies on the javax.swing package for graphical rendering and requ
 
 ## Preview
 <img src="assets/preview.gif" alt="Alt Text" width="330" height="400" />
+
+## Author
+Marius H. Naasen, originally created August 2021.
+Marius H. Naasen, originally created August 2021.
