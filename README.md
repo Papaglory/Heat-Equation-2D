@@ -36,4 +36,3 @@ The java code relies on the javax.swing package for graphical rendering and requ
 
 ## Author
 Marius H. Naasen, originally created August 2021.
-Marius H. Naasen, originally created August 2021.
