@@ -2,6 +2,11 @@
 
 This program numerically solves the 2D heat equation using the finite difference method, approximating the heat distribution over a square domain with having value zero for the boundary conditions. The initial heat distribution is modeled by a polynomial spline surface constructed from user-defined input points in 3D-space.
 
+## Preview
+<img src="assets/preview.gif" alt="Alt Text" width="330" height="400" />
+
+Visualization of diffusion with a given initial temperature distribution, while boundary conditions are fixed at zero.
+
 ## How to Use
 
 No app exists for this project (apart from three demos in the 'executables' folder). To test with your own examples, download the code and run MainHeat.java. The following steps display how to proceed.
@@ -31,8 +36,9 @@ The program renders the heat distribution by assigning grayscale colors to pixel
 
 The java code relies on the javax.swing package for graphical rendering and requires the EJML Java library (version 0.43) for matrix calculations.
 
-## Preview
-<img src="assets/preview.gif" alt="Alt Text" width="330" height="400" />
+## Further Information
+
+For a more in-depth look at this project, please refer to [mariusnaasen.com/projects/heat-equation-2d](https://mariusnaasen.com/projects/heat-equation-2d).
 
 ## Author
 Marius H. Naasen, originally created August 2021.
